@@ -1,4 +1,12 @@
-# 👋 Hello, World! I'm Stanislav
+<div align="center">
+  
+  ![Stanislav Photo](/images/avatar.jpg)
+  
+  # 👋 Hello, World! I'm Stanislav!
+  
+  **Aspiring Developer**
+</div>
+
 
 **Aspiring Developer** with a passion for building and learning. Currently focused on mastering the core technologies of modern web and software development.
 
