@@ -1,22 +1,31 @@
-# 👋 Hello, World! I'm Stanislav
+## Hi, I'm Stan 👋
 
-**Aspiring Developer** with a passion for building and learning. Currently focused on mastering the core technologies of modern web and software development.
+**AI Engineer & Python Developer**
 
-### 🛠️ Technologies & Skills
+> *Создаю цифровые решения, которые экономят время.*
 
-*   **Languages:** Python, Java, JavaScript
-*   **Currently Learning:** In-depth concepts of Python, Java, and JS ecosystems.
-*   **Tools:** Git, GitHub
+Разрабатываю сайты, CRM, Telegram-ботов, автоматизирую процессы.
 
-### 🎯 Goals
+---
 
-*   Solidify my knowledge in Python, Java, and JavaScript.
-*   Contribute to open-source projects.
-*   Build a portfolio of practical projects.
+### 🛠 Стек
 
-### 📫 Let's Connect
+`Python` `FastAPI` `Django REST` `SQL` `SQLAlchemy` `Telegram Bot API` `Docker` `Git` `Linux` `Pandas` `Machine Learning` `LLM` `Codex` `Hermes` `OpenClaw`
 
-I'm always open to discussing technology, collaboration, or new opportunities.
+---
 
-*   **GitHub:** [[borygins (GitHub Profile Link)](https://github.com/borygins)]
-*   **Email:** [ s.borygin@gmail.com ]
+### 📌 Проекты
+
+| Проект | Что сделано |
+|---|---|
+| [TinaBorke.art](https://github.com/borygins/TinaBorke.art) | Сайт + админка + Telegram-CRM для мастера визажиста. Клиент управляет контентом сам |
+| [TaskManager](https://github.com/borygins/TaskManager) | Корпоративный таск-менеджер на FastAPI + SQLAlchemy |
+| [BackupToCloud](https://github.com/borygins/BackupToCloud) | Резервное копирование в Yandex Object Storage |
+| [English_Teacher_bot](https://github.com/borygins/English_Teacher_bot) | Telegram-бот для изучения английского |
+
+---
+
+### 🌐 Контакты
+
+- 📁 [stansforge.pro](https://stansforge.pro)
+- ✈️ [@borygins](https://t.me/borygins)
